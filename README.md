@@ -23,8 +23,8 @@ Deberás desarrollar una página web con HTML y CSS que muestre un listado de ar
 
 ## 🔗 Enlace al proyecto
 
-Repositorio en GitHub: https://github.com/lumpalette/Tarea-2/
-Deploy: https://lumpalette.github.io/Tarea-2/
+- Repositorio en GitHub: https://github.com/lumpalette/Tarea-2/
+- Deploy: https://lumpalette.github.io/Tarea-2/
 
 ---
 
